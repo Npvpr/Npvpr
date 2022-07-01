@@ -1,4 +1,4 @@
-<h1 align='center'><samp><strong>Hi there :wave:, I am Naing Lin Maung</strong></samp></h1>
+<h1 align='center'><strong>Hi there :wave:, I am Naing Lin Maung</strong></h1>
 <h3 align='center'><strong><a href="https://" target="_blank">Portfolio</a></strong></h3>
 <p align='center'>Computer Science Student | Full Stack Developer | Software Engineer</p>
 
@@ -11,6 +11,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Naing%20Lin%20Maung-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/naing-lin-maung-ab963321a/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-blue?logo=stackoverflow&logoColor=orange&labelColor=white)](https://stackoverflow.com/users/16762596/naing-lin-maung?tab=profile)
 [![Leet Code](https://img.shields.io/badge/LeetCode-blue?logo=leetcode&logoColor=black&labelColor=white)](https://leetcode.com/nlmnever2/?tab=profile)
+
+<h2>My Technical Skills</h2>
 
 <h3>Languages:</h3>
 
