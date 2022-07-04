@@ -2,7 +2,7 @@
 <h3 align='center'><strong><a href="https://" target="_blank">Portfolio</a></strong></h3>
 <p align='center'>Computer Science Student | Full Stack Developer | Software Engineer</p>
 
-<p> I am a computer science student who loves programming. I am currently working so many exciting projects. You can view any of my repositories. :smile: </p>
+<p> I am a computer science student who loves programming. I am currently working on so many exciting projects. You can view any of my repositories. :smile: </p>
 
 :email: Feel free to contact me. I am always here ...<img src="/Images/Flame-512px-9.gif" width="50">
 <br>
