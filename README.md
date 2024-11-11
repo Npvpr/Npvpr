@@ -7,12 +7,12 @@ I am Naing Lin Maung. I am an enthusiastic computer science student with a passi
 I'm familiar with:
 * HTML, CSS, JavaScript
 * Bootstrap, TailwindCSS
-* Node.js, Python
-* React, Next.js, Django
+* Java, Python
+* React, Next.js, Spring, Django
 * Django REST framework
-* PostgreSQL, MongoDB
+* PostgreSQL, MySQL
 
 ## Links:
 
-* EMAIL: [nlmnever2@gmail.com](mailto:nlmnever2@gmail.com)
+* EMAIL: [nainglinmaung99@gmail.com](mailto:nainglinmaung99@gmail.com)
 * WEBSITE: [https://nainglinmaung.vercel.app/](https://nainglinmaung.vercel.app/)
