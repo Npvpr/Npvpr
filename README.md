@@ -14,5 +14,5 @@ I'm familiar with:
 
 ## Links:
 
-* EMAIL: [nainglinmaung99@gmail.com](mailto:nainglinmaung99@gmail.com)
+* EMAIL: [nlmnever2@gmail.com](mailto:nlmnever2@gmail.com)
 * WEBSITE: [https://nainglinmaung.vercel.app/](https://nainglinmaung.vercel.app/)
